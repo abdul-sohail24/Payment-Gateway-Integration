@@ -1,0 +1,45 @@
+html,
+body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#navigation {
+  font-size: 32px;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+}
+
+#heading_text {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 24px;
+}
+
+#contact {
+  padding: 5rem 0 1rem 0;
+}
+
+#contribute {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.bar hr {
+  max-width: 150px;
+  border-width: 3px;
+  border-color: rgb(167, 9, 9);
+}
+
+.bar1 hr {
+  max-width: 1500px;
+  border-width: 1px;
+  border-color: rgb(17, 17, 17);
+}
+
+footer {
+  padding: 25px 0;
+  text-align: center;
+}
