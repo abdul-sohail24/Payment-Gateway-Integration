@@ -2,6 +2,8 @@ html,
 body {
   height: 100%;
   overflow-x: hidden;
+  background-color: black;
+  color: white;
 }
 
 body {
@@ -36,7 +38,7 @@ body {
 .bar1 hr {
   max-width: 1500px;
   border-width: 1px;
-  border-color: rgb(17, 17, 17);
+  border-color: rgb(255, 255, 255);
 }
 
 footer {
